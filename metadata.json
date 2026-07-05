@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Book Armed & Tasya",
+  "description": "Aplikasi album pre-wedding & buku tamu digital elegan untuk Armed dan Tasya dengan pemutar musik romantis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
